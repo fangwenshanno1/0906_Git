@@ -2,3 +2,4 @@ hello myfriend
 hello world hello
 hello myfriend
 commit by dev
+commit by dev twice
