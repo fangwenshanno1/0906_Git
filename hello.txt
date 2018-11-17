@@ -1,2 +1,3 @@
 hello myfriend
 hello world hello
+hello myfriend
