@@ -9,3 +9,5 @@ commit by local
 commit by remote new 
 commit by local new 
 commit by remote new new
+commit by rercory 
+# 我是你的忠实粉丝，我很喜欢这个项目，我贡献了点自己的想法，您看看怎么样！
